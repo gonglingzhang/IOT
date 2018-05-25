@@ -1,0 +1,19 @@
+{
+    "username": "glz",
+    "mail_to":"123456789@qq.com",
+    "position":"0",
+    "frequency":60,
+    "dht11_temperature": "http://172.20.10.4/dht11-temperature",
+    "dht11_humidity": "http://172.20.10.4/dht11-humidity",
+    "ds18b20_temperature": "http://172.20.10.3/ds18b20-temperature",
+    "sen0161_ph": "http://172.20.10.3/sen0161-ph",
+    "oos61_oxygen":"...",
+    "temperature_min": -5.1,
+    "temperature_max": 35.1,
+    "humidity_min": 55.55,
+    "humidity_max": 95.01,
+    "ph_min": 6.1,
+    "ph_max": 9.8,
+    "oxygen_min": 5.0,
+    "oxygen_max":7.7
+}
